@@ -1,6 +1,6 @@
 (function () {
         "use strict";
-        const REG = "https://Starhela.com/register.php?ref=sydney";
+        const REG = "https://Starhela.com/register.php?ref=cythiawawira";
         const $ = (id) => document.getElementById(id);
         const fmt = (n) => n.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
         function shuffle(a) {
@@ -432,7 +432,7 @@
     id: 9,
     name: "Sophia",
     age: 39,
-    loc: "Sydney, Australia",
+    loc: "cythiawawira, Australia",
     flag: "🇦🇺",
     desc: "Wants to chat with you",
     full: "Hi! I'm Sophia. I'm a Christian who loves talking about faith, prayer, and how God works in our lives.",
